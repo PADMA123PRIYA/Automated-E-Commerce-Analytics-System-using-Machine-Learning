@@ -1,14 +1,14 @@
-Automated E-Commerce Analytics System using Machine Learning
+##Automated E-Commerce Analytics System using Machine Learning
 
 #Project Overview
 
 This project is an end-to-end E-Commerce Analytics System that combines:
 
-MySQL Database
-Python Automation
-Machine Learning
-Real-Time Prediction
-Power BI Dashboard
+*MySQL Database
+*Python Automation
+*Machine Learning
+*Real-Time Prediction
+*Power BI Dashboard
 
 The system automatically reads sales data from MySQL, trains a machine learning model, predicts product prices, detects anomalies, generates alerts, stores predictions back into MySQL, and updates a Power BI dashboard.
 
